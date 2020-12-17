@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.reikvdm.usingjbtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.reikvdm.usingjbtemplate.MyBundle
 
 class MyApplicationService {
 
